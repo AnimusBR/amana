@@ -3,4 +3,5 @@ int main () {
   int num;
   printf("Olá");
   scanf("%d", &num);
+  pritf(num);
 {
